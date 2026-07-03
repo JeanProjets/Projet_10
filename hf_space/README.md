@@ -1,5 +1,5 @@
 ---
-title: My Content Recommandation
+title: Projet 10 - Content Recommandation
 emoji: 📚
 colorFrom: blue
 colorTo: indigo
